@@ -1,0 +1,5 @@
+.idea
+# Firmware
+.pio
+cmake-build-*/
+CMakeListsPrivate.txt
